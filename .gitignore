@@ -166,3 +166,5 @@ cython_debug/
 
 # Custom gitignore
 data/
+migrations/
+
